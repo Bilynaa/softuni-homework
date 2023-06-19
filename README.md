@@ -1,2 +1,2 @@
 # softuni-homework
-Homework 
+Homework GitHub
